@@ -9,19 +9,19 @@ Kingston, RI 02881
 
 EDUCATION
 
-University of Rhode Island                                                                           Kingston, RI
+University of Rhode Island                                                    Kingston, RI
 Ph.D. Candidate, Operations and Supply Chain Management                     2021(Expected)
 
 Thesis: Does Blatant Benevolence Increase Social Capital on Social Media?
 Supervisor: Koray Özpolat
 Committee members: Gulver Karamemis, Mustafa Kulenovic, Stu Westin 
 
-SUNY, Stony Brook University                                                             Stony Brook, NY
-M.B.A., Management                                                                                                2016.12
-M.A., Public Policy                                                                                                   2016.12
+SUNY, Stony Brook University                                                Stony Brook, NY
+M.B.A., Management                                                                  2016.12
+M.A., Public Policy                                                                 2016.12
 
-Shao Guan University                                                                            Shaoguan, China
-B.A., Administrative Management                                                                           2014.08
+Shao Guan University                                                        Shaoguan, China
+B.A., Administrative Management                                                     2014.08
 
 RESEARCH INTERESTS
 
@@ -45,9 +45,7 @@ Zhang, J., Özpolat, K., Karamemis, G., Schniederjans, D., Does Blatant Benevole
 RESEARCH PIPELINE
 
 The institutionalization of transgressive institutional innovations, with Silvia Dorado, Ted Baker, Pablo Fernandez.
-
 An exploratory study on strike propensity in China: A multilevel model analysis, with Ying Chen
-
 What are the reactions of people when they see the prosocial behavior on social media? with Liu Li, Koray Özpolat
 What are the antecedents of prosocial behavior on social media? with Muhammad Hasan, Koray Özpolat
 
